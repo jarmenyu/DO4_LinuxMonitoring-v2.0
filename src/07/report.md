@@ -1,7 +1,7 @@
 # Part 7. Prometheus и Grafana
 <hr>
 Grafana port 3000 
-![yk;](screen/1.png) 
+![](screen/1.png) 
 Prometheus port 9090 
 ![](screen/2.png) 
 Добавить на дашборд Grafana отображение ЦПУ, доступной оперативной памяти, свободное место и кол-во операций ввода/вывода на жестком диске 
