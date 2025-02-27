@@ -1,6 +1,7 @@
 # Part 8. Готовый дашборд
 <hr>
 Установи готовый дашборд Node Exporter Quickstart and Dashboard с официального сайта Grafana Labs
+
 ![1](./1.png)   
 ![2](./2.png)  
 Запустить ваш bash-скрипт из part2 
