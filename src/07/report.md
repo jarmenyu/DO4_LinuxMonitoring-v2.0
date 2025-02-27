@@ -1,7 +1,7 @@
 # Part 7. Prometheus и Grafana
 <hr>
 Grafana port 3000 
-![ytu](https://github.com/jarmenyu/DO4_LinuxMonitoring-v2.0/blob/main/src/07/screen/1.png) 
+![ytu](./screen/1.png) 
 Prometheus port 9090 
 ![](screen/2.png) 
 Добавить на дашборд Grafana отображение ЦПУ, доступной оперативной памяти, свободное место и кол-во операций ввода/вывода на жестком диске 
